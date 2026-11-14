@@ -1,39 +1,33 @@
 # Giant Reach Nexus
 
-**A client acquisition and workflow automation platform for immigration firms in Africa.**
+**A website and product-information experience for The Giant Reach's immigration-business software.**
 
-This repository is a showcase. Source code is private.
+This repository is a public project showcase. The website source code is maintained separately from this showcase.
 
 ## Who it's for
 
-Giant Reach Nexus is for immigration firms that need to organise client acquisition and business workflows. It is focused on helping firms connect customer journeys and reduce fragmented manual processes.
+Giant Reach Nexus presents software and workflow solutions for immigration consultants, visa agencies and study-abroad businesses. It explains how The Giant Reach's products are intended to help these teams capture enquiries, qualify prospects, manage client cases and understand business performance.
 
 ## Key features
 
-- [FILL_IN: describe the client enquiry capture capability]
-- [FILL_IN: describe the lead or prospect management capability]
-- [FILL_IN: describe the customer journey workflow]
-- [FILL_IN: describe the workflow automation capability]
-- [FILL_IN: describe the operational tracking or reporting capability]
+- **Product and feature pages** — explains the enquiry capture, qualification, client CRM, case management, follow-up and reporting capabilities described by the product.
+- **Audience-specific pages** — provides tailored information for independent immigration consultants, visa agencies and study-abroad businesses.
+- **Lead capture and contact paths** — includes contact and enquiry flows for visitors interested in the company's software and services.
+- **Content and resources** — includes blog, resource and FAQ pages to help immigration businesses understand relevant workflows.
+- **Search and analytics foundations** — includes page metadata, sitemap generation, robots.txt and Google Tag Manager integration.
 
-## Screenshots
+## Technology
 
-![Screenshot 1 - [FILL_IN: main dashboard]](docs/screenshots/01.png)
-![Screenshot 2 - [FILL_IN: client acquisition workflow]](docs/screenshots/02.png)
-![Screenshot 3 - [FILL_IN: operations or tracking view]](docs/screenshots/03.png)
-
-## Tech stack
-
-- JavaScript — [CONFIRM]
-- Supabase — [CONFIRM]
-- PostgreSQL — [CONFIRM]
-- Vercel — [CONFIRM]
-- Render — [CONFIRM]
-- GitHub — [CONFIRM]
+- TypeScript
+- React
+- TanStack Start and TanStack Router
+- Vite
+- Tailwind CSS
+- Radix UI components
 
 ## Status
 
-[FILL_IN: Live / In development / Private beta].
+Website source code is present in the private repository. The current production deployment and domain mapping have not been independently verified.
 
 ## About
 
