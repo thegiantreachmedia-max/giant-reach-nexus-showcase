@@ -16,14 +16,11 @@ Giant Reach Nexus presents software and workflow solutions for immigration consu
 - **Content and resources** — includes blog, resource and FAQ pages to help immigration businesses understand relevant workflows.
 - **Search and analytics foundations** — includes page metadata, sitemap generation, robots.txt and Google Tag Manager integration.
 
-## Technology
+## Tech stack
 
-- TypeScript
+- JavaScript
 - React
-- TanStack Start and TanStack Router
-- Vite
-- Tailwind CSS
-- Radix UI components
+
 
 ## Status
 
