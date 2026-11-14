@@ -1,38 +1,40 @@
 # Giant Reach Nexus
 
-**Client acquisition and workflow automation platform by [The Giant Reach](https://www.thegiantreach.com).**
+**A client acquisition and workflow automation platform for immigration firms in Africa.**
 
-Giant Reach Nexus represents The Giant Reach's approach to building practical digital systems that help businesses attract prospects, manage customer journeys, and reduce fragmented, manual workflows.
+This repository is a showcase. Source code is private.
 
-## About The Giant Reach
+## Who it's for
 
-The Giant Reach builds client acquisition and workflow systems for immigration firms in Africa, with an initial focus on businesses operating in Nigeria and Ghana.
+Giant Reach Nexus is for immigration firms that need to organise client acquisition and business workflows. It is focused on helping firms connect customer journeys and reduce fragmented manual processes.
 
-We bring lead capture, customer processes, and day-to-day operations into more connected digital workflows—designed around real business problems rather than unnecessary complexity.
+## Key features
 
-## What we focus on
+- [FILL_IN: describe the client enquiry capture capability]
+- [FILL_IN: describe the lead or prospect management capability]
+- [FILL_IN: describe the customer journey workflow]
+- [FILL_IN: describe the workflow automation capability]
+- [FILL_IN: describe the operational tracking or reporting capability]
 
-- **Client acquisition:** digital experiences and systems that help businesses capture and organise enquiries.
-- **Workflow systems:** connected processes that reduce repetitive manual work.
-- **Operational visibility:** clearer ways to track customer journeys and business activity.
-- **Practical software:** purpose-built solutions shaped around the way teams actually work.
+## Screenshots
 
-## Explore
+![Screenshot 1 - [FILL_IN: main dashboard]](docs/screenshots/01.png)
+![Screenshot 2 - [FILL_IN: client acquisition workflow]](docs/screenshots/02.png)
+![Screenshot 3 - [FILL_IN: operations or tracking view]](docs/screenshots/03.png)
 
-- **Website:** https://www.thegiantreach.com
-- **Portfolio:** https://www.thegiantreach.com/portfolio
-- **VisaByte:** https://visabyte.thegiantreach.com
+## Tech stack
 
-## About this repository
+- JavaScript — [CONFIRM]
+- Supabase — [CONFIRM]
+- PostgreSQL — [CONFIRM]
+- Vercel — [CONFIRM]
+- Render — [CONFIRM]
+- GitHub — [CONFIRM]
 
-This is a public project showcase for Giant Reach Nexus. It is not the production application source code. Private implementation details, credentials, and internal infrastructure are intentionally kept out of this repository.
+## Status
 
-## Contact
+[FILL_IN: Live / In development / Private beta].
 
-**The Giant Reach**  
-Email: [opeyemi@thegiantreach.com](mailto:opeyemi@thegiantreach.com)  
-Website: https://www.thegiantreach.com
+## About
 
----
-
-*Systems built around real business problems.*
+Built by [The Giant Reach](https://www.thegiantreach.com), a software company for immigration entrepreneurs, visa consultants, immigration firms and study-abroad businesses in Africa.
